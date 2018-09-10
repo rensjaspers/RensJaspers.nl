@@ -51,7 +51,7 @@ copyright = "&copy;2018 Rens Jaspers"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "rens.jaspers@gmail.com"
+        url = "mailto:rens.jaspers@gmail.com"
 
       [[params.links.list1.link]]
         text = "LinkedIn"
